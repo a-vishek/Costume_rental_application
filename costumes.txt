@@ -1,0 +1,10 @@
+Cop Costume,Cartmaxx,$15,29
+Formal Suit,Megaplex,$14,18
+Fairy Coste,DollarSm,$18,23
+Abc Costume,DamiXXXX,$10,12
+Cde Costume,SupremeX,$20,20
+Efg Costume,GoldStar,$30,11
+Ghi Costume,Sonamica,$21,15
+Jkl Costume,MSiCloth,$30,21
+Lmn Costume,XYZBrand,$25,30
+Opq Costume,ABCBrand,$29,24

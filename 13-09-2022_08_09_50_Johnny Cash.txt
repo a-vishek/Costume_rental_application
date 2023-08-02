@@ -1,0 +1,6 @@
+--------------------------COSTUME RENTAL INVOICE RETURNED----------------------------------
+Name: Johnny Cash
+Rented Items: ['Cop Costume', 'Formal Suit']
+Rented Items Brand: ['Cartmaxx', 'Megaplex']
+Fine: 20$
+---------------------------------------------------------------------------------

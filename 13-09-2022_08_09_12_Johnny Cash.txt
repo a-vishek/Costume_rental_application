@@ -1,0 +1,7 @@
+--------------------------COSTUME RENTAL INVOICE----------------------------------
+Name: Johnny Cash 
+ Contact Details: 9877777777
+Rented Items: ['Cop Costume', 'Formal Suit']
+Rented Items Brand: ['Cartmaxx', 'Megaplex']
+Total price of all the costumes: 117$
+---------------------------------------------------------------------------------
